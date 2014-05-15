@@ -2,5 +2,4 @@ Yintro2HandAndroid
 ==================
 
 
-
-Client for Yintro 2 Hand
+Removed.....gradle project is suck...too slow
